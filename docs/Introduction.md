@@ -4,6 +4,8 @@
 
 ## 1. Introduction
 
+![](media/img-20260508114126.jpeg)
+
 The Electronics Complete Learning Starter Kit is a comprehensive and versatile Arduino-compatible development kit designed for beginners, students, and electronics enthusiasts. This kit contains a wide variety of sensors, modules, and components to help you get started quickly and practice a multitude of basic and intermediate electronics projects. Whether you are learning programming, building smart home prototypes, or exploring robotics, this kit provides all the essential tools you need.
 
 ---
@@ -19,6 +21,8 @@ The Electronics Complete Learning Starter Kit is a comprehensive and versatile A
 ---
 
 ## 3. Component List
+
+![](media/img-20260508114126.jpeg)
 
 | Component | Quantity | Component | Quantity |
 |-----------|----------|-----------|----------|
