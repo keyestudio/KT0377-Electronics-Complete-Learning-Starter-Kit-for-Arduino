@@ -1,7 +1,5 @@
 # Electronics Complete Robot Kit Learning Starter Kit for Arduino UNO R3
 
-![Img](media/img-20260508114126.jpeg)
-
 **Before starting the projects, please make sure you have installed the Arduino IDE and necessary libraries.**
 
 ## 1. Introduction
@@ -22,11 +20,9 @@ The Electronics Complete Learning Starter Kit is a comprehensive and versatile A
 
 ## 3. Component List
 
-![](media/kit_cover.png)
-
 | Component | Quantity | Component | Quantity |
 |-----------|----------|-----------|----------|
-| Arduino UNO R3 Board | 1 | LCD 1602 Module | 1 |
+| UNO R3 development board (ch340) | 1 | LCD 1602 Module | 1 |
 | Prototype Expansion Shield | 1 | 4-digit LED Segment Display | 1 |
 | 830-hole Breadboard | 1 | 1-digit LED Segment Display | 1 |
 | Stepper Motor (5V) | 1 | HC-SR04 Ultrasonic Sensor | 1 |

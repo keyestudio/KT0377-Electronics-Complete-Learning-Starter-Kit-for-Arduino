@@ -79,8 +79,6 @@ NO terminal is normally open, unless you activate the relay that connects it to 
 
 4\. Connect an external circuit or device to the normally open and common contacts of the relay
 
-![1(4)](../media/68436746fc0d0fea6ba2bad1e416fe18.jpeg)
-
 High voltage connections can be made to this screw terminal. For example: Bulb, ceiling fan etc., But in this project we are just using an LED.
 
 When you make the connection between a) and b), the connected LED is always ON until it receives a signal from the Arduino to turn it OFF.
