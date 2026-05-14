@@ -1,4 +1,4 @@
-## 6.Code
+## 6. Download
 
 [Code Download](./code.7z).
 
