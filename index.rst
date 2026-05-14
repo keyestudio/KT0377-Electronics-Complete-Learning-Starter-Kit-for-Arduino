@@ -1,6 +1,6 @@
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: KT0377 Electronics Complete Robot Kit Learning Starter Kit for Arduino UNO R3
 
    docs/Introduction/Introduction.md

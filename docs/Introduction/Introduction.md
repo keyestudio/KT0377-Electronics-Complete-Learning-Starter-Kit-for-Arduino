@@ -1,8 +1,6 @@
-# Electronics Complete Robot Kit Learning Starter Kit for Arduino UNO R3
-
 **Before starting the projects, please make sure you have installed the Arduino IDE and necessary libraries.**
 
-## 1. Introduction
+# 1. Introduction
 
 ![](../media/img-20260508114126.jpeg)
 
@@ -10,7 +8,7 @@ The Electronics Complete Learning Starter Kit is a comprehensive and versatile A
 
 ---
 
-## 2. Features
+# 2. Features
 
 1. **User-Friendliness**: Arduino is popular for its simplicity and ease of use, allowing users to get started without needing advanced programming or electronic expertise.
 2. **Abundant Component Modules**: The kit includes various modules like LEDs, sensors, displays, motors, and more, enabling users to undertake diverse projects.
@@ -20,7 +18,7 @@ The Electronics Complete Learning Starter Kit is a comprehensive and versatile A
 
 ---
 
-## 3. Component List
+# 3. Component List
 
 ![](../media/img-20260508114126.jpeg)
 
@@ -57,7 +55,7 @@ The Electronics Complete Learning Starter Kit is a comprehensive and versatile A
 
 ---
 
-## 4. Getting started with Arduino
+# 4. Getting started with Arduino
 
 **WHAT IS ARDUINO?**
 
