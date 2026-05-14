@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-![](media/img-20260508114126.jpeg)
+![](../media/img-20260508114126.jpeg)
 
 The Electronics Complete Learning Starter Kit is a comprehensive and versatile Arduino-compatible development kit designed for beginners, students, and electronics enthusiasts. This kit contains a wide variety of sensors, modules, and components to help you get started quickly and practice a multitude of basic and intermediate electronics projects. Whether you are learning programming, building smart home prototypes, or exploring robotics, this kit provides all the essential tools you need.
 
@@ -22,7 +22,7 @@ The Electronics Complete Learning Starter Kit is a comprehensive and versatile A
 
 ## 3. Component List
 
-![](media/img-20260508114126.jpeg)
+![](../media/img-20260508114126.jpeg)
 
 | Component | Quantity | Component | Quantity |
 |-----------|----------|-----------|----------|
@@ -75,17 +75,17 @@ You could download Arduino IDE from the official website: <https://www.arduino.c
 
 Enter the link and click **SOFTWARE**:
 
-![IMG_256](media/6014f55b686eaeda41962b0ad77736a3.png)
+![IMG_256](../media/6014f55b686eaeda41962b0ad77736a3.png)
 
 There are various versions of IDE for Arduino. Just download a version compatible with your system.
 
-![IMG_257](media/24c561930b3186ad00a9ba22353fe03d.png)
+![IMG_257](../media/24c561930b3186ad00a9ba22353fe03d.png)
 
 Here we will show you how to download and install the windows version of Arduino IDE.
 
 There are two versions of IDE for WINDOWS system. You can choose between the installer (.exe) and the Zip file. For installer, it can be directly downloaded, without the need of installing it manually while for Zip package, you will need to install the driver manually.
 
-![IMG_258](media/8ec65288928b34f5bc469c6006490b64.png)
+![IMG_258](../media/8ec65288928b34f5bc469c6006490b64.png)
 
 You just need to click **JUST DOWNLOAD**.
 
@@ -95,7 +95,7 @@ The versions of Arduino IDE vary from operation systems.
 
 For how to download Arduino IDE on Mac, please refer to Windows:
 
-![IMG_259](media/5d7e2c9e5c669f9c6cdc6d80a033062f.png)
+![IMG_259](../media/5d7e2c9e5c669f9c6cdc6d80a033062f.png)
 
 After downloading, double-click to open it and follow the installation instructions.
 
@@ -103,23 +103,23 @@ After downloading, double-click to open it and follow the installation instructi
 
 1. Save the .exe file downloaded from the software page to your hard drive and simply run the file.
 
-![IMG_260](media/94d0d4f51a6ace50b21956fe3343c3c8.png)
+![IMG_260](../media/94d0d4f51a6ace50b21956fe3343c3c8.png)
 
 2. Read the License Agreement and agree it.
 
-![IMG_261](media/4549ac3c1bf357812bf1b7f1e5c957b0.png)
+![IMG_261](../media/4549ac3c1bf357812bf1b7f1e5c957b0.png)
 
 3. Choose the installation options.
 
-![IMG_262](media/b79aac95963c924dad31312bd29d0153.png)
+![IMG_262](../media/b79aac95963c924dad31312bd29d0153.png)
 
 4. Choose the install location.
 
-![IMG_263](media/cfa42c06a2d876d92289d1147b60e6cc.png)
+![IMG_263](../media/cfa42c06a2d876d92289d1147b60e6cc.png)
 
 5. Click finish and run Arduino IDE.
 
-![IMG_264](media/697ea012cd650c065e63f2b4616dcdc0.png)
+![IMG_264](../media/697ea012cd650c065e63f2b4616dcdc0.png)
 
 ### 2. Install Driver
 
@@ -135,33 +135,33 @@ Connect the control board to your computer.
 
 Click Computer – Properties – Device Manager, as shown below. This indicates a successful connection, so the installation of driver is not required.
 
-![IMG_256](media/7cc41c72ee4461bda82ccc4d0dba89bb.png)
+![IMG_256](../media/7cc41c72ee4461bda82ccc4d0dba89bb.png)
 
 If the following situation occurs, you need to manually install the driver.
 
-![IMG_257](media/04ed97b4a54e1c4299f6eb8d373ea42f.png)
+![IMG_257](../media/04ed97b4a54e1c4299f6eb8d373ea42f.png)
 
-Click ![IMG_258](media/896228c33e54210b9384d463ad1b6625.png) to select "Update driver". And then the driver will start to install.
+Click ![IMG_258](../media/896228c33e54210b9384d463ad1b6625.png) to select "Update driver". And then the driver will start to install.
 
-![IMG_259](media/146b192c7d1474664008d444321a248d.png)
+![IMG_259](../media/146b192c7d1474664008d444321a248d.png)
 
 Tap "Browse my computer for drivers".
 
-![IMG_260](media/8e8ffe57882a82783826d01114ed6db0.png)
+![IMG_260](../media/8e8ffe57882a82783826d01114ed6db0.png)
 
 Find the file **usb_ch341_3.1.2009.06** or **cp210x** you have downloaded, and click "Next".
 
-![IMG_261](media/1ba1b4ecfe4ea3ead3d9d8f0e2d5a0f4.png)
+![IMG_261](../media/1ba1b4ecfe4ea3ead3d9d8f0e2d5a0f4.png)
 
 After finishing installing, click "Close" and the serial port number will show up.
 
-![IMG_262](media/776fa8f2bba399b2668f1baa0b6d3b5f.png)
+![IMG_262](../media/776fa8f2bba399b2668f1baa0b6d3b5f.png)
 
 The driver is successfully installed!
 
 Click Computer – Properties – Device Manager to check:
 
-![IMG_263](media/7cc41c72ee4461bda82ccc4d0dba89bb.png)
+![IMG_263](../media/7cc41c72ee4461bda82ccc4d0dba89bb.png)
 
 #### Install CH340 Driver on MAC System
 
@@ -169,61 +169,61 @@ Click Computer – Properties – Device Manager to check:
 
 <https://fs.keyestudio.com/CH340-MAC>
 
-![IMG_256](media/7dfcb6e458f17b0e71f9025fae67194d.png)
+![IMG_256](../media/7dfcb6e458f17b0e71f9025fae67194d.png)
 
 **Step 2**: For details about how to install the driver in pkg format by default, see Step 3. If OS X 11.0 or later does not support Rosetta, refer to Step 4 to install the dmg driver.
 
 Before installation, please forward to "System Preferences" -> "Security & Privacy" -> "General" page, below the title "Allow apps downloaded from:" choose the choice 2 -> "Mac App Store and identified developers", then the driver will work normally.
 
-![IMG_257](media/2280ddabd30ae756e281ce22bc351117.png)
+![IMG_257](../media/2280ddabd30ae756e281ce22bc351117.png)
 
 **Step 3**: To install the driver in pkg format, tap the driver file → Continue → Install.
 
-![IMG_258](media/f1bb8697ef7c872dc3ab8a218a751f01.png)
+![IMG_258](../media/f1bb8697ef7c872dc3ab8a218a751f01.png)
 
-![IMG_259](media/061557391b0bd7ad8207204d1a4d8882.png)
+![IMG_259](../media/061557391b0bd7ad8207204d1a4d8882.png)
 
 Then the installation will be successful.
 
-![IMG_260](media/60bb24ba4d2c3cebd48448bdc78db7e1.png)
+![IMG_260](../media/60bb24ba4d2c3cebd48448bdc78db7e1.png)
 
-![IMG_261](media/4978c48ad8a09d8c0385790477852249.png)
+![IMG_261](../media/4978c48ad8a09d8c0385790477852249.png)
 
 To install the pkg format driver on OS X 11.0 and later: Open "LaunchPad" → "CH34xVCPDriver" → Install.
 
-![IMG_262](media/3c06bb749fb85ba0c63615ca28a6caa2.png)
+![IMG_262](../media/3c06bb749fb85ba0c63615ca28a6caa2.png)
 
 When using OS X 10.9 to OS X 10.15, click "Restart" to restart your computer, and perform the following steps after the restart.
 
-![](media/3fd75f71c0d4b5210034d7deac4aab23.png)
+![](../media/3fd75f71c0d4b5210034d7deac4aab23.png)
 
 **Step 4**: To install the dmg driver, tap the dmg file and drag "CH34xVCPDriver" to enter the application folder in the operating system.
 
-![](media/0acb0422b5dd20872534aca717c03df1.png)
+![](../media/0acb0422b5dd20872534aca717c03df1.png)
 
 Then open "LaunchPad" → "CH34xVCPDriver" → Install.
 
-![](media/51d3db2d3cda79e414da48bc34b8e3d4.png)
+![](../media/51d3db2d3cda79e414da48bc34b8e3d4.png)
 
 Then the installation will be successful.
 
-![](media/7e52a1fe7974d968a26dd286455c3dd8.png)
+![](../media/7e52a1fe7974d968a26dd286455c3dd8.png)
 
 When inserting the CH340 control board into the USB port, open System Report -> Hardware -> USB. On the right is USB Device Tree. If the USB device is working properly, you will find a device whose "Vendor ID" is [0x1a86].
 
-![IMG_267](media/dc4720b8debe1b05d3ab010b68bed7a8.png)
+![IMG_267](../media/dc4720b8debe1b05d3ab010b68bed7a8.png)
 
 Open "Terminal" program under Applications-Utilities folder and type the command "ls /dev/tty\*".
 
-![IMG_268](media/e2a93eb1063946fd62ae1ef7319882a6.png)
+![IMG_268](../media/e2a93eb1063946fd62ae1ef7319882a6.png)
 
 You should see the "tty.wchusbserialx" where "x" is the assigned device number similar to Windows COM port assignment.
 
 ### 3. Arduino IDE Setting
 
-Click ![IMG_274](media/291ed864a358d3c8bbcb44bb2a20e08b.png) icon to open Arduino IDE.
+Click ![IMG_274](../media/291ed864a358d3c8bbcb44bb2a20e08b.png) icon to open Arduino IDE.
 
-![](media/7aed791ac34372c448faec41fb5b3224.png)
+![](../media/7aed791ac34372c448faec41fb5b3224.png)
 
 1. "File": Including New Sketch, Open…, Sketchbook, Examples, Close, Save(Save as…), Preferences, Advanced…, etc.
 
@@ -288,33 +288,33 @@ void loop() {
 }
 ```
 
-![IMG_256](media/e95ea5b14321ab7257f9eaa38fae9a47.png)
+![IMG_256](../media/e95ea5b14321ab7257f9eaa38fae9a47.png)
 
 Click "Tools" ——> "Board" ——> Arduino AVR Boards, and here we choose Arduino Uno as our development board.
 
-![IMG_257](media/7267fbefcfc10995f8e85bc26e54b49f.png)
+![IMG_257](../media/7267fbefcfc10995f8e85bc26e54b49f.png)
 
 Choose the correct COM port.
 
 If there are so many ports that you have no idea which is the correct one, you may unplug the board to check which one disappears. If there is no COM port, please check whether the driver is installed.
 
-![IMG_258](media/b03bcce79bae9d13d76a39e66f492838.jpeg)
+![IMG_258](../media/b03bcce79bae9d13d76a39e66f492838.jpeg)
 
 In our demonstration, the port is COM3, so we click "Tools" to choose "COM3" in "Port".
 
-![IMG_259](media/b7a5fd0cde765bcbabcea31d055f0f73.png)
+![IMG_259](../media/b7a5fd0cde765bcbabcea31d055f0f73.png)
 
 If your board is successfully connected, it will show on the interface.
 
-![IMG_260](media/d7fef58fae7f6d8f515f6476d5012c2a.png)
+![IMG_260](../media/d7fef58fae7f6d8f515f6476d5012c2a.png)
 
-Click ![IMG_261](media/44a062aa272e21abb8308ad9bc3a1167.png) to compile the code. If it succeeds, the following two show up:
+Click ![IMG_261](../media/44a062aa272e21abb8308ad9bc3a1167.png) to compile the code. If it succeeds, the following two show up:
 
-![IMG_262](media/fcf249833d7630efccf8e5bb9c2eade0.png)
+![IMG_262](../media/fcf249833d7630efccf8e5bb9c2eade0.png)
 
-Click ![IMG_263](media/84d060e66fbd48b08d74dc6a84c1785e.png) and set baud rate to 9600, and "Hello Keyestudio!" are being printed!
+Click ![IMG_263](../media/84d060e66fbd48b08d74dc6a84c1785e.png) and set baud rate to 9600, and "Hello Keyestudio!" are being printed!
 
-![IMG_264](media/c8e46fb53356400412788c518d5ae7d0.png)
+![IMG_264](../media/c8e46fb53356400412788c518d5ae7d0.png)
 
 1. "Toggle Autoscroll": To set whether to follow the print.
 
@@ -363,11 +363,11 @@ void loop() {
 }
 ```
 
-![IMG_256](media/e95ea5b14321ab7257f9eaa38fae9a47.png)
+![IMG_256](../media/e95ea5b14321ab7257f9eaa38fae9a47.png)
 
 Click "Tools" ——> "Board" ——> Arduino AVR Boards, and here we choose Arduino Uno as our development board.
 
-![IMG_257](media/f5b158d75c793076019c813d3ec2f8c1.png)
+![IMG_257](../media/f5b158d75c793076019c813d3ec2f8c1.png)
 
 Choose the correct COM port.
 
@@ -375,19 +375,19 @@ If there are so many ports that you have no idea which is the correct one, you m
 
 In "Tools", click "Port" to select "/dev/cu.usbderial-0001".
 
-![IMG_258](media/e240db6aa07e8a7b90a0f255f9a018fb.png)
+![IMG_258](../media/e240db6aa07e8a7b90a0f255f9a018fb.png)
 
 If your board is successfully connected, it will show on the interface.
 
-![IMG_259](media/5011e22deb0619b8fdcb418f11a2a6c5.png)
+![IMG_259](../media/5011e22deb0619b8fdcb418f11a2a6c5.png)
 
-Click ![IMG_260](media/44a062aa272e21abb8308ad9bc3a1167.png) to compile the code. If it succeeds, the following two show up:
+Click ![IMG_260](../media/44a062aa272e21abb8308ad9bc3a1167.png) to compile the code. If it succeeds, the following two show up:
 
-![IMG_261](media/8cf00ca48d5a99db25842c6e0d924744.png)
+![IMG_261](../media/8cf00ca48d5a99db25842c6e0d924744.png)
 
-Click ![IMG_262](media/84d060e66fbd48b08d74dc6a84c1785e.png) and set baud rate to 9600, and "Hello Keyestudio!" are being printed!
+Click ![IMG_262](../media/84d060e66fbd48b08d74dc6a84c1785e.png) and set baud rate to 9600, and "Hello Keyestudio!" are being printed!
 
-![IMG_263](media/322f2c253c27b45bb00c348b8fde61bf.png)
+![IMG_263](../media/322f2c253c27b45bb00c348b8fde61bf.png)
 
 1. "Toggle Autoscroll": To set whether to follow the print.
 
