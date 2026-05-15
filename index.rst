@@ -1,11 +1,11 @@
 
 .. toctree::
-   :maxdepth: 3
-   :caption: KT0377 Electronics Complete Learning
+   :maxdepth: 2
+   :caption: KT0377 Комплект для изучения электроники и сборки робота
 
-   README.md
-   docs/Introduction
-   docs/README
+   docs/Introduction.md
+   docs/projects.rst
+   docs/Download/code.md
 
 
 
