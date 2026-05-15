@@ -24,7 +24,7 @@ El Kit Completo de Electrónica para Aprendizaje es un kit de desarrollo compati
 
 | Componente | Cantidad | Componente | Cantidad |
 |-----------|----------|-----------|----------|
-| Placa Arduino UNO R3 | 1 | Módulo LCD 1602 | 1 |
+| Placa de desarrollo UNO R3 (ch340) | 1 | Módulo LCD 1602 | 1 |
 | Shield de Expansión para Protoboard | 1 | Display de Segmentos LED de 4 dígitos | 1 |
 | Protoboard de 830 orificios | 1 | Display de Segmentos LED de 1 dígito | 1 |
 | Motor Paso a Paso (5V) | 1 | Sensor Ultrasónico HC-SR04 | 1 |
