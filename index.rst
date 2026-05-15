@@ -4,7 +4,7 @@
    :caption: KT0377 Kit Completo de Electrónica para Aprendizaje y Inicio de Robots
 
    docs/Introduction.md
-   docs/Projects/projects.rst
+   docs/projects.rst
    docs/Download/code.md
 
 

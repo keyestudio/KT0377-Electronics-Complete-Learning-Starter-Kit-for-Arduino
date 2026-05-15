@@ -79,8 +79,6 @@ El terminal NO está normalmente abierto, a menos que actives el relé, que lo c
 
 4\. Conecta un circuito o dispositivo externo a los contactos normalmente abiertos y común del relé
 
-![1(4)](../media/68436746fc0d0fea6ba2bad1e416fe18.jpeg)
-
 Las conexiones de alto voltaje pueden hacerse a este terminal de tornillo. Por ejemplo: bombilla, ventilador de techo, etc. Pero en este proyecto solo usamos un LED.
 
 Cuando haces la conexión entre a) y b), el LED conectado está siempre ENCENDIDO hasta que recibe una señal del Arduino para apagarlo.
