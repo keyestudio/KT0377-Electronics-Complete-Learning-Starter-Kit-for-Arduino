@@ -1,16 +1,14 @@
-# Kit Completo de Electrónica para Aprendizaje y Inicio de Robots para Arduino UNO R3
-
-![Img](media/img-20260508114126.jpeg)
-
 **Antes de comenzar los proyectos, por favor asegúrate de haber instalado el IDE de Arduino y las librerías necesarias.**
 
-## 1. Introducción
+# 1. Introducción
+
+![](media/img-20260508114126.jpeg)
 
 El Kit Completo de Electrónica para Aprendizaje es un kit de desarrollo compatible con Arduino, completo y versátil, diseñado para principiantes, estudiantes y entusiastas de la electrónica. Este kit contiene una gran variedad de sensores, módulos y componentes para ayudarte a comenzar rápidamente y practicar una multitud de proyectos básicos e intermedios de electrónica. Ya sea que estés aprendiendo programación, construyendo prototipos de hogares inteligentes o explorando robótica, este kit proporciona todas las herramientas esenciales que necesitas.
 
 ---
 
-## 2. Características
+# 2. Características
 
 1. **Facilidad de uso**: Arduino es popular por su simplicidad y facilidad de uso, permitiendo a los usuarios comenzar sin necesidad de conocimientos avanzados en programación o electrónica.  
 2. **Abundantes módulos de componentes**: El kit incluye varios módulos como LEDs, sensores, pantallas, motores y más, permitiendo a los usuarios realizar diversos proyectos.  
@@ -20,9 +18,9 @@ El Kit Completo de Electrónica para Aprendizaje es un kit de desarrollo compati
 
 ---
 
-## 3. Lista de Componentes
+# 3. Lista de Componentes
 
-![](media/kit_cover.png)
+![](media/img-20260508114126.jpeg)
 
 | Componente | Cantidad | Componente | Cantidad |
 |-----------|----------|-----------|----------|
@@ -57,7 +55,7 @@ El Kit Completo de Electrónica para Aprendizaje es un kit de desarrollo compati
 
 ---
 
-## 4. Comenzando con Arduino
+# 4. Comenzando con Arduino
 
 **¿QUÉ ES ARDUINO?**
 

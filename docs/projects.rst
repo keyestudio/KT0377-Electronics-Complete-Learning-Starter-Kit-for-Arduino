@@ -1,4 +1,6 @@
-5 Proyectos
+=========
+5.  Proyectos
+=========
 ---------------
 
 .. toctree::
