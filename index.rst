@@ -1,11 +1,11 @@
 
 .. toctree::
-   :maxdepth: 3
-   :caption: KT0377 Electronics Complete Learning
+   :maxdepth: 2
+   :caption: KT0377 Kit Completo de Electrónica para Aprendizaje y Inicio de Robots
 
-   README.md
-   docs/Introduction
-   docs/README
+   docs/Introduction.md
+   docs/Projects/projects.rst
+   docs/Download/code.md
 
 
 
